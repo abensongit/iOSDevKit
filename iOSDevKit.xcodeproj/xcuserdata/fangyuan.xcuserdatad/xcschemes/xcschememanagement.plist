@@ -7,7 +7,25 @@
 		<key>iOSDevKit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>15</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F36A6AB1240007CE0038299E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F36A6ACC240007CE0038299E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F36A6AD7240007CF0038299E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
